@@ -38,4 +38,4 @@ We would like to express our gratitude to the contributors and reviewers who pro
 
 ## Contact Information
 
-For any inquiries or collaborations related to this project, please contact [your-name@your-institution.edu](mailto:
+For any inquiries or collaborations related to this project, please contact [skeshvadi@tru.ca](mailto:skeshvadi@tru.ca)
